@@ -1,0 +1,10 @@
+
+span#basic-addon1 {
+    /* border-radius: 50% 0% 0% 50%; */
+}
+span#basic-addon2 {
+    /* border-radius: 0% 50% 50% 0%; */
+    font-size: 14px;
+    margin: 0px !important;
+    padding: 8px !important;
+}

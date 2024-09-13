@@ -1,0 +1,13 @@
+#gradient{
+    width: 65vw;
+    height: 33vh;
+    position: absolute;
+    background: rgb(241,227,248);
+    background: linear-gradient(172deg, rgba(241,227,248,1) 13%, rgba(221,238,254,1) 51%, rgba(222,245,238,1) 99%);
+}
+/* .border{
+    border: 2px solid rgb(151, 147, 147) !important;
+    --tw-shadow: inset 0 0 0 1px rgba(0,0,0,.08) !important;
+    --tw-shadow-colored: inset 0 0 0 1px var(--tw-shadow-color) !important;
+}
+   */

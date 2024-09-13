@@ -1,0 +1,11 @@
+#video_card{
+    min-height: 7vh; /* Minimum height to ensure content is visible */
+    max-height: 50vh; /* Maximum height to prevent the element from growing too large */
+    overflow-y: auto; 
+}
+.border-color{
+    color: grey !important;
+}
+#content{
+    padding: 0% 29% !important;
+}

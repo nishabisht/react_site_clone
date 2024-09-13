@@ -1,0 +1,7 @@
+.no-border{
+    border: 0px solid white !important;
+}
+li{
+    font-size: 16px;
+    color: black;
+}

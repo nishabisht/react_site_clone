@@ -1,0 +1,13 @@
+#video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 70px;
+    background: rgb(24,92,155);
+    background: linear-gradient(90deg, rgba(24,92,155,1) 8%, rgba(18,104,157,1) 52%, rgba(9,124,163,1) 100%);
+}
+
+#card-body{
+    width: 150px;
+}
