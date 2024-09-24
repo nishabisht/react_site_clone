@@ -11,7 +11,7 @@ const RouterMain = () => {
   return (
     <div>
       <Routes>
-        <Route path="/" element={<Home />}></Route>
+        <Route path="/react_site_clone" element={<Home />}></Route>
         <Route path="/learn" element={<Learn />}></Route>
         <Route path="/reference" element={<Reference />}></Route>
         <Route path="/community" element={<Community />}></Route>
